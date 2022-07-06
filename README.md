@@ -4,7 +4,7 @@
 
 Work with: Python, Go, C++
 
-Familiar with: JavaScript, Mongo, React, Next.js, x86 Assembly, C
+Familiar with: JavaScript, Mongo, React, Next.js, x86 Assembly, C, Parallel Programming Frameworks (CUDA, OpenCL, MPI)
 
 Would like to learn: Better/Modern C/C++, Cloud Tech (AWS, GCP), Rust, OS Level Concepts
 
