@@ -1,12 +1,10 @@
-👋 Hello! I am a Computer Science student learning from and contributing to the world of open source software.
+👋 Hello!
 
 ---
 
-Work with: Python, Go, C++
+Work with: Python, Go, SQL, and Cloud Based Technologies
 
 Familiar with: JavaScript, Mongo, React, Next.js, x86 Assembly, C, Parallel Programming Frameworks (CUDA, OpenCL, MPI)
-
-Learning: 💻 Systems Programming & 🦀 Rust
 
 ---
 
