@@ -2,12 +2,6 @@
 
 ---
 
-Work with: Python, Go, SQL, and Cloud Based Technologies
-
-Familiar with: JavaScript, Mongo, React, Next.js, x86 Assembly, C, Parallel Programming Frameworks (CUDA, OpenCL, MPI)
-
----
-
 <details>
   <summary>
     👾 Coding Statistics
